@@ -19,8 +19,8 @@ This codespace is where you will do all your practical work in the module. You w
     </head>
     <body>
       <?php
-  echo "Welcome to CHT2520";
-  ?>
+    echo "Welcome to CHT2520";
+    ?>
     </body>
   </html>
   ```html
@@ -38,9 +38,9 @@ This codespace is where you will do all your practical work in the module. You w
 - Back in your codespace, make a simple change to the message e.g. delete a word.
 - Save the file
 - Switch to the second tab
-- Refresh the page and confirm the changes have takne place.
+- Refresh the page and confirm the changes have taken place.
 
-This is basic workflow we will follow to develop and test our PHP applications.
+This is the basic workflow we will follow to develop and test our PHP applications.
 
 ## When you've finished working
 
